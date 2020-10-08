@@ -36,7 +36,7 @@
     "ng2-ckeditor": "1.1.6",
     "ngx-clipboard": "5.1.0",
     "ngx-popover": "0.0.16",
-    "rxjs": "5.5.2",
+    "rxjs": "5.5.12",
     "screenfull": "^3.3.1",
     "systemjs": "0.19.40",
     "tinymce": "^4.6.4",
