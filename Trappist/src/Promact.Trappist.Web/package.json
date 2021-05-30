@@ -39,7 +39,7 @@
     "rxjs": "5.5.2",
     "screenfull": "^3.3.1",
     "systemjs": "0.19.40",
-    "tinymce": "^4.6.4",
+    "tinymce": "^5.7.1",
     "web-animations-js": "^2.3.1",
     "zone.js": "^0.8.4"
   },
